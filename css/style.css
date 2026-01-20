@@ -1,0 +1,1525 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Barlow", sans-serif;
+    font-size: 16px;
+    background-color: #f1f1f1;
+}
+
+.banner-form-wrapper.service-form.why-choose-box .bd-example.m-0.border-0 {
+    background-color: transparent;
+    padding: 0px;
+}
+
+.banner-form-wrapper.service-form.why-choose-box .bd-example.m-0.border-0 .form-control {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+}
+
+.inner-page-banner {
+    background-color: #E91B23;
+    padding: 120px 0px 180px;
+}
+
+.inner-page-banner h1 {
+    font-size: 60px;
+    line-height: 60px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.inner-page-banner p {
+    color: #ffffff;
+    text-align: center;
+    font-size: 18px;
+}
+
+.inner-page-banner.abt-page-banner p {
+    padding: 0px 20px;
+}
+
+.abt-page-banner h1 {
+    margin-bottom: 30px;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    color: #333333;
+}
+
+.navbar-nav.me-auto {
+    margin-left: auto !important;
+    margin-right: 0px !important;
+}
+
+.space-left-right {
+    padding: 0px 50px;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    font-size: 16px;
+    line-height: 26px;
+    font-style: normal;
+    font-weight: 500;
+    padding: 8px 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.btn.btn-lg.mainbutton {
+    background-color: #E91B23;
+    border-radius: 0px;
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.spaceleft-right {
+    padding: 0px 60px;
+}
+
+.header-links-wrapper {
+    display: flex;
+}
+
+.header-links-wrapper .header-links {
+    margin-right: 60px;
+}
+
+.header-links h6 {
+    color: #666666;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.header-links a {
+    color: #212226;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.social-icon-links ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.social-icon-links ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.social-icon-links ul li a {
+    color: #666666;
+    width: 36px;
+    height: 36px;
+    border: 1px solid #666666;
+    border-radius: 100px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-icon-links {
+    text-align: right;
+}
+
+header {
+    margin-top: 0px;
+}
+
+.navbar {
+    background-color: #f8f8f8;
+    border-top: 1px solid #DEDEDE;
+}
+
+.header-top-section {
+    background-color: #ffffff;
+    padding: 20px 12px 15px;
+}
+
+.mobile-menu-button {
+    display: none;
+}
+
+.we-mechanic-banner img {
+    width: 100%;
+}
+
+.mainbutton i {
+    margin-right: 10px;
+}
+
+.we-mechanic-banner .owl-carousel .owl-nav button.owl-next,
+.we-mechanic-banner .owl-carousel .owl-nav button.owl-prev {
+    background-color: #E91B23;
+    width: 50px;
+    height: 50px;
+    border-radius: 4px;
+}
+
+.we-mechanic-banner .owl-carousel .owl-nav button.owl-next span,
+.we-mechanic-banner .owl-carousel .owl-nav button.owl-prev span {
+    width: 15px;
+    height: 14px;
+    display: block;
+    font-size: 0px;
+    margin: auto;
+}
+
+.we-mechanic-banner .owl-carousel .owl-nav button.owl-next span {
+    background-image: url("../images/owl-next.png");
+}
+
+.we-mechanic-banner .owl-carousel .owl-nav button.owl-prev span {
+    background-image: url("../images/owl-prev.png");
+}
+
+.we-mechanic-banner .owl-carousel .owl-nav button.owl-prev {
+    margin-bottom: 10px;
+}
+
+.we-mechanic-banner {
+    position: relative;
+}
+
+.we-mechanic-banner .owl-nav {
+    display: flex;
+    flex-direction: column;
+    width: 51px;
+    height: 120px;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+    left: 40px;
+}
+
+.banner-form-wrapper .bd-example {
+    background-image: url("../images/Rectangle5.png");
+    background-size: cover;
+    padding: 40px;
+    margin: 50px !important;
+    position: relative;
+}
+
+.banner-form-wrapper {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 10;
+}
+
+.we-mechanic-banner .owl-carousel .owl-item img {
+    height: 600px;
+}
+
+.form-label {
+    color: #004B88;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.form-select {
+    border-radius: 0px;
+    height: 50px;
+}
+
+.form-control {
+    border-radius: 0px;
+    height: 50px;
+}
+
+.we-mechanic-banner .owl-carousel button.owl-dot {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    background: #86868a;
+    border-radius: 20px;
+    margin: 0px 5px;
+}
+
+.we-mechanic-banner .owl-carousel button.owl-dot.active {
+    background-color: #e91b23;
+}
+
+.we-mechanic-banner .owl-dots {
+    text-align: center;
+    margin-top: -40px;
+    z-index: 10;
+    position: relative;
+}
+
+.form-select:focus {
+    box-shadow: none !important;
+}
+
+.form-control:focus {
+    box-shadow: none !important;
+}
+
+.banner-form-wrapper .btn.btn-primary {
+    display: block;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    border-radius: 0px;
+    background-color: #004B88;
+    border: 1px solid #004B88;
+}
+
+.banner-form-wrapper .btn.btn-primary i {
+    width: 13px;
+    height: 15px;
+    display: inline-block;
+    line-height: 10px;
+    margin-right: 10px;
+}
+
+.dot-one,
+.dot-two,
+.dot-three,
+.dot-four {
+    background-color: #005EFF;
+    height: 16px;
+    width: 16px;
+    position: absolute;
+}
+
+.dot-one {
+    top: 0px;
+    left: 0px;
+}
+
+.dot-two {
+    top: 0px;
+    right: 0px;
+}
+
+.dot-three {
+    bottom: 0px;
+    left: 0px;
+}
+
+.dot-four {
+    bottom: 0px;
+    right: 0px;
+}
+
+.we-mechanic-banner .owl-carousel .owl-nav button.owl-next:hover,
+.we-mechanic-banner .owl-carousel .owl-nav button.owl-prev:hover {
+    opacity: 0.5;
+}
+
+.why-choose-box {
+    background-image: url("../images/abt.jpg");
+    padding: 60px;
+    background-size: cover;
+}
+
+.white-bg {
+    background-color: #ffffff;
+}
+
+.space-top-100 {
+    padding-top: 100px;
+}
+
+.space-top-bottom-100 {
+    padding: 100px 0px;
+}
+
+.small-title h6 {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #004B88;
+    font-weight: 600;
+    margin-bottom: 0px;
+    margin-right: 10px;
+}
+
+.small-title i {
+    position: relative;
+    top: -4px;
+}
+
+.small-title {
+    display: flex;
+}
+
+.section-title h2 {
+    color: #212226;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.section-title h2 span {
+    color: #004B88;
+    font-style: italic;
+}
+
+.why-choose-box p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 0px;
+}
+
+.why-choose-box ul li i {
+    margin-right: 10px;
+}
+
+.why-choose-box ul li {
+    list-style: none;
+    display: flex;
+}
+
+.why-choose-box ul li p {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.why-choose-box ul {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 0px;
+}
+
+.why-choose-box ul li {
+    width: 50%;
+}
+
+.btn.btn-lg.mainbutton.blue {
+    background-color: #004B88;
+}
+
+.btn-and-num {
+    margin-top: 20px;
+}
+
+.service-section {
+    background-color: #ececec;
+    padding: 40px 0px;
+}
+
+.services {
+    text-align: center;
+}
+
+.services h6 {
+    margin-bottom: 0px;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+.service-box.blue-box {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#004b88+0,005eff+100 */
+    background: linear-gradient(to bottom, #004b88 0%, #005eff 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.service-box.red-box {
+    background-color: #E91B23;
+}
+
+.service-box {
+    border-radius: 20px;
+    padding: 40px 20px 20px 40px;
+}
+
+.tag-line i {
+    margin-right: 5px;
+}
+
+.blue-red-box-section {
+    background-color: #ffffff;
+    padding: 100px 0px;
+}
+
+.service-box .tag {
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    font-style: normal;
+    font-size: 14px;
+    display: inline-block;
+    border-radius: 50px;
+    padding: 5px 10px;
+}
+
+.service-box h3 {
+    font-size: 30px;
+    line-height: 36px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.red-car img {
+    width: 100%;
+}
+
+.tag-line {
+    display: block;
+}
+
+.tag-line {
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.service-box a {
+    color: #ffffff;
+    font-size: 16px;
+    text-decoration: none;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.service-box a i {
+    width: 30px;
+    height: 30px;
+    background-color: #ffffff;
+    border-radius: 100px;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    line-height: 28px;
+    margin-left: 10px;
+}
+
+.relible-section h2 {
+    color: #004B88;
+    font-size: 50px;
+    line-height: 56px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.relible-section h2 span {
+    color: #E91B23;
+    font-style: italic;
+}
+
+.spaceleft-right.relible-section .reliable-and-quality {
+    padding: 100px 0px;
+}
+
+.reliable-and-quality h2 {
+    margin-bottom: 140px;
+}
+
+.services-text h6 {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.services-text p {
+    color: #666666;
+    font-size: 14px;
+    line-height: 22px;
+    margin-bottom: 5px;
+}
+
+.services-text a {
+    color: #004B88;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.services-text a i {
+    margin-right: 5px;
+    display: inline-block;
+}
+
+.our-services-list {
+    display: flex;
+}
+
+.our-services-list .services-icon {
+    margin-right: 20px;
+}
+
+.our-services-list {
+    border-bottom: 1px solid #EAEAEA;
+    padding: 20px;
+}
+
+.our-services-list-wrapper {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 30px;
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1);
+}
+
+.reliable-and-quality {
+    background-image: url("../images/relible-bg.jpg");
+    background-size: cover;
+}
+
+.our-services-list-wrapper h5 {
+    color: #004B88;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.our-services-list-wrapper h5 i {
+    margin-left: 10px;
+}
+
+.frequently-asked-questions h3 {
+    margin-bottom: 40px;
+    font-weight: 700;
+    color: #212226;
+    text-transform: uppercase;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.frequently-asked-questions {
+    background-color: #ffffff;
+}
+
+.frequently-asked-questions .accordion {
+    width: 80%;
+    margin: auto;
+}
+
+.frequently-asked-questions .accordion-button {
+    color: #212226;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.contact-us-section {
+    background-image: url("../images/contact-bg.jpg");
+    background-size: cover;
+}
+
+.banner-form-wrapper.service-form {
+    position: static;
+}
+
+.banner-form-wrapper.service-form h2 {
+    margin: 10px 0px 40px;
+}
+
+.banner-form-wrapper.service-form .bd-example {
+    margin: 0px !important;
+    background-color: #ffffff;
+    background-image: none;
+}
+
+.banner-form-wrapper.service-form .form-control {
+    background-color: #F4F4F4;
+    border: 0px;
+}
+
+.banner-form-wrapper.service-form h2 {
+    color: #004B88;
+}
+
+.banner-form-wrapper.service-form h2 span {
+    color: #E91B23;
+}
+
+.banner-form-wrapper.service-form .btn.btn-primary {
+    display: inline-block;
+    width: auto;
+    background-color: #005EFF;
+    border-color: #005EFF;
+}
+
+.owl-two .owl-dot span {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    background: #000000;
+    margin: 0px 5px;
+    border-radius: 10px;
+}
+
+.owl-two .owl-dot.active span {
+    background-color: #E91B23;
+}
+
+.owl-two .owl-dots {
+    text-align: center;
+}
+
+.owl-two.owl-carousel .owl-item img {
+    width: auto;
+}
+
+.brands-logos-wrapper {
+    padding: 40px 0px 20px;
+}
+
+.testi-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tes-text {
+    display: flex;
+}
+
+.tex-intro h5 {
+    color: #000000;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.tex-intro p {
+    margin-bottom: 0px;
+}
+
+.tex-intro {
+    margin-left: 20px;
+}
+
+.owl-three.owl-carousel .owl-item img {
+    width: auto;
+}
+
+.testi-content {
+    margin-top: 30px;
+}
+
+.testimonials-wrapper p {
+    margin: 20px 0px;
+}
+
+.noida-drivers-trust-wrapper {
+    background-color: #ffffff;
+    padding: 40px 0px;
+    background-image: url("../images/tyre-gra.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.noida-drivers-trust-wrapper .section-title h2 span {
+    color: #E91B23;
+}
+
+.owl-three {
+    position: relative;
+}
+
+.owl-three .owl-nav {
+    position: absolute;
+    right: -130px;
+    bottom: 0;
+}
+
+.owl-three.owl-carousel .owl-nav button.owl-prev span {
+    width: 44px;
+    height: 44px;
+    display: block;
+    background-color: #004B88;
+    color: #ffffff;
+    font-size: 30px;
+    line-height: 36px;
+}
+
+.owl-three.owl-carousel .owl-nav button.owl-prev span:hover {
+    background-color: #E91B23;
+}
+
+.owl-three.owl-carousel .owl-nav button.owl-next span {
+    width: 44px;
+    height: 44px;
+    display: block;
+    background-color: #004B88;
+    color: #ffffff;
+    font-size: 30px;
+    line-height: 36px;
+}
+
+.owl-three.owl-carousel .owl-nav button.owl-next,
+.owl-three.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel button.owl-dot {
+    margin-left: 10px;
+}
+
+.owl-three.owl-carousel .owl-nav button.owl-next span:hover {
+    background-color: #E91B23;
+}
+
+.social-logo {
+    text-align: center;
+    border: 1px solid #DEDEDE;
+}
+
+.copywrite-text {
+    text-align: center;
+    margin-bottom: 0px;
+    padding: 20px 0px;
+    font-size: 16px;
+    color: #000000;
+    border-bottom: 1px solid #DEDEDE;
+}
+
+.footer-links-section {
+    background-image: url("../images/carbg.jpg");
+    padding: 40px 0px;
+}
+
+.footer-links-section h5 {
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+.footer-links-section ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.footer-links-section ul li {
+    list-style: none;
+}
+
+.footer-links-section ul li a {
+    text-decoration: none;
+    color: #A9A9A9;
+    font-size: 16px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.footer-links-section ul li a:hover {
+    color: #ffffff;
+}
+
+.footer-bottom-wrapper ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.footer-bottom-wrapper ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+.footer-bottom-wrapper ul li a {
+    font-size: 16px;
+    line-height: 26px;
+    font-style: normal;
+    font-weight: 500;
+    padding: 8px 12px;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-decoration: none;
+    color: #666666;
+}
+
+.ft-address {
+    text-align: center;
+}
+
+.ft-address h6 {
+    color: #004B88;
+    font-weight: 700;
+}
+
+.ft-address h6 a {
+    color: #004B88;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.ft-address p {
+    margin-bottom: 0px;
+    margin-bottom: 5px;
+}
+
+.ft-address p a {
+    text-decoration: none;
+    color: #666666;
+}
+
+.footer-bottom-wrapper {
+    background-color: #ffffff;
+    padding: 15px 0px;
+}
+
+.blue-footer ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.blue-footer ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0px 15px;
+}
+
+.blue-footer ul li a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.blue-footer {
+    background-color: #004B88;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.service-box-wrapper h3 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.service-box-wrapper.space-bottom-100 {
+    margin-top: -100px;
+    padding-bottom: 60px;
+}
+
+.space-bottom-100 {
+    padding-bottom: 100px;
+}
+
+.service-box-wrapper .col-lg-3 {
+    margin-bottom: 40px;
+}
+
+.inner-page-banner.abt-page-banner {
+    padding: 100px 0px;
+}
+
+/* Car Services Available In Delhi Start */
+
+.sechtextbg {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.sechtextbg p {
+    width: 70%;
+    margin: auto;
+}
+
+.services-section {
+    background: #f1f1f1;
+    padding: 80px 10px;
+}
+
+.service-card {
+    background: #f7f7f7;
+    border-radius: 14px;
+    padding: 25px 15px;
+    text-align: center;
+    height: 100%;
+    position: relative;
+    transition: all .35s ease;
+    cursor: pointer;
+}
+
+.service-card img {
+    width: 55px;
+    margin-bottom: 15px;
+    transition: transform .35s ease;
+}
+
+.service-card h6 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin: 0;
+}
+
+.service-card:hover {
+    background: #ffffff;
+    transform: translateY(-8px);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.12);
+}
+
+.service-card:hover img {
+    transform: scale(1.15) rotate(-5deg);
+}
+
+.badge-new {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background: #4CAF50;
+    color: #fff;
+    font-size: 10px;
+    padding: 4px 7px;
+    border-radius: 4px;
+    font-weight: 600;
+}
+
+.brands-logos-wrapper2 {
+    background-color: #fff;
+    padding: 60px 10px;
+}
+
+.owl-two2 .owl-dot span {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    background: #000000;
+    margin: 0px 5px;
+    border-radius: 10px;
+}
+
+.owl-two2 .owl-dot.active span {
+    background-color: #E91B23;
+}
+
+.owl-two2 .owl-dots {
+    text-align: center;
+}
+
+.owl-two2.owl-carousel .owl-item img {
+    width: auto;
+}
+
+.bnn-img2 {
+    width: 50%;
+    margin: auto;
+}
+
+.sccnabtext {
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.owl-two3 .owl-dot span {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    background: #000000;
+    margin: 0px 5px;
+    border-radius: 10px;
+}
+
+.owl-two3 .owl-dot.active span {
+    background-color: #E91B23;
+}
+
+.owl-two3 .owl-dots {
+    text-align: center;
+}
+
+.owl-two3.owl-carousel .owl-item img {
+    width: auto;
+}
+.secbtnc{
+    color: #000000;
+    text-decoration: none;
+}
+.bnn-img3{
+    border-radius: 20px;
+}
+
+.guarantee-box{
+    height: 100%;
+    padding: 30px 20px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.guarantee-box i{
+    font-size: 32px;
+    color: #000;
+}
+
+.guarantee-box h6{
+    margin: 0;
+    font-weight: 600;
+}
+
+.bg-one{ background:#f4f8ff; }
+.bg-two{ background:#fbf2ff; }
+.bg-three{ background:#f4fbf2; }
+.bg-four{ background:#fffbe6; }
+
+
+.guarantee-box:hover{
+    transform: translateY(-6px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.how-it-works{
+  padding: 80px 0;
+  background: #fff;
+}
+
+.timeline{
+  position: relative;
+}
+
+/* Vertical Line */
+.timeline::before{
+  content: "";
+  position: absolute;
+  left: 22px;
+  top: 0;
+  width: 2px;
+  height: 100%;
+  background: #e6e6e6;
+}
+
+.timeline-item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  position: relative;
+}
+
+/* LEFT CONTENT */
+.timeline-left{
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  width: 65%;
+  padding-left: 60px;
+}
+
+.step-number{
+  width: 36px;
+  height: 36px;
+  background: #f5f5f5;
+  border-radius: 4px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 5px;
+}
+
+.step-content h5{
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.step-content p{
+  margin: 0;
+  color: #666;
+}
+
+/* RIGHT ICON */
+.timeline-right img{
+  width: 190px;
+}
+
+/* MOBILE */
+@media(max-width:768px){
+  .timeline::before{
+    display: none;
+  }
+
+  .timeline-item{
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .timeline-left{
+    width: 100%;
+    padding-left: 0;
+  }
+
+  .step-number{
+    position: relative;
+    left: 0;
+    margin-bottom: 10px;
+  }
+
+  .timeline-right{
+    margin-top: 15px;
+  }
+}
+
+/* Car Services Available In Delhi End */
+
+
+@media only screen and (min-width:1920px) {
+
+    .container-fluid {}
+
+    .frequently-asked-questions .accordion {
+        width: 1200px;
+    }
+}
+
+@media only screen and (max-width:1080px) {}
+
+@media only screen and (min-width:1920px) {}
+
+@media only screen and (max-width:1440px) {}
+
+@media only screen and (max-width:1199px) {
+
+    .inner-page-banner.abt-page-banner {
+        padding: 60px 0px;
+    }
+
+    .call-for {
+        display: none;
+    }
+
+    .service-box-wrapper h3 {
+        font-size: 18px;
+    }
+
+    .inner-page-banner h1 {
+        font-size: 50px;
+    }
+
+    .inner-page-banner {
+        padding: 100px 0px 140px;
+    }
+
+    .btn.btn-lg.mainbutton {
+        padding: 5px;
+    }
+}
+
+@media only screen and (max-width:1024px) {
+
+    .navbar-expand-md .navbar-nav .nav-link {
+        font-size: 13px;
+        line-height: 15px;
+        text-align: center;
+        padding: 8px 10px;
+    }
+
+    .btn.btn-lg.mainbutton {
+        font-size: 13px;
+    }
+
+    .header-links h6 {
+        font-size: 13px;
+    }
+
+    .header-links a {
+        font-size: 13px;
+    }
+
+    .header-links-wrapper .header-links {
+        margin-right: 20px;
+    }
+
+    .social-icon-links ul {
+        text-align: center;
+    }
+
+    .social-icon-links {
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .header-top-section {
+        padding: 20px 12px 10px;
+    }
+
+    .banner-form-wrapper .bd-example {
+        margin: 30px 30px 30px 0px !important;
+    }
+
+    .banner-form-wrapper .bd-example {
+        padding: 40px 20px;
+    }
+
+    .why-choose-box {
+        padding: 20px;
+    }
+
+    .space-top-bottom-100 {
+        padding: 60px 0px;
+    }
+
+    .blue-red-box-section {
+        padding: 60px 0px;
+    }
+
+    .spaceleft-right.relible-section .reliable-and-quality {
+        padding: 60px 0px;
+    }
+
+    .reliable-and-quality h2 {
+        margin-bottom: 40px;
+        color: #ffffff;
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .service-box {
+        padding: 40px 20px 20px 20px;
+    }
+
+    .service-box h3 {
+        font-size: 25px;
+    }
+
+    .our-services-list-wrapper {
+        padding: 20px;
+    }
+
+    .our-services-list {
+        flex-direction: column;
+    }
+
+    .our-services-list {
+        padding: 20px 0px;
+    }
+
+    .services-icon i {
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+
+    .section-title h2 {
+        font-size: 30px;
+    }
+
+    .social-logo img {
+        width: 70px;
+        height: 50px;
+    }
+
+    .ft-logo {
+        text-align: center;
+    }
+
+    .footer-bottom-wrapper ul {
+        text-align: center;
+    }
+
+    .blue-footer ul li a {
+        font-size: 13px;
+    }
+
+    .footer-bottom-wrapper ul li a {
+        font-size: 13px;
+    }
+
+    .footer-links-section ul li a {
+        font-size: 13px;
+    }
+
+    .owl-three .owl-nav {
+        position: static;
+        margin-top: 20px;
+    }
+
+    .owl-three.owl-carousel .owl-nav button.owl-next,
+    .owl-three.owl-carousel .owl-nav button.owl-prev,
+    .owl-carousel button.owl-dot {
+        margin-right: 10px;
+        margin-left: 0px;
+    }
+
+    .reliable-and-quality .col-lg-7.col-md-12 {
+        margin-top: 30px;
+    }
+
+    .frequently-asked-questions .accordion {
+        width: 95%;
+    }
+}
+
+@media only screen and (max-width:991px) {
+
+    .why-choose-us-image {
+        text-align: center;
+        margin-bottom: 60px;
+    }
+
+    .spaceleft-right {
+        padding: 0px 20px;
+    }
+
+    .footer-links-section .col-lg-3 {
+        margin-bottom: 20px;
+    }
+
+    .footer-links-section {
+        padding: 40px 0px 10px;
+    }
+
+    .footer-bottom-wrapper .col-lg-2 {
+        margin-bottom: 20px;
+    }
+
+    .footer-bottom-wrapper .col-lg-6 {
+        margin-bottom: 20px;
+    }
+}
+
+@media only screen and (max-width:767px) {
+
+    .inner-page-banner.abt-page-banner {
+        padding: 40px 0px;
+    }
+
+    .form-select {
+        height: 40px;
+    }
+
+    .header-links-wrapper {
+        flex-direction: column;
+    }
+
+    .mobile-menu-button {
+        display: block;
+    }
+
+    .spaceleft-right {
+        padding: 0px 0px;
+    }
+
+    .header-links-wrapper .header-links {
+        margin-right: 0px;
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .header-links-wrapper .header-links h6 {
+        margin-bottom: 0px;
+    }
+
+    .header-top-section {
+        padding: 5px 12px 10px;
+    }
+
+    .navbar-brand {
+        width: 200px;
+    }
+
+    .banner-form-wrapper .bd-example {
+        margin: 30px 20px 30px 20px !important;
+    }
+
+    .banner-form-wrapper {
+        position: static;
+    }
+
+    .social-icon-links ul li a {
+        font-size: 13px;
+    }
+
+    .social-icon-links ul li a {
+        font-size: 12px;
+        width: 30px;
+        height: 30px;
+    }
+
+    .header-links-wrapper {
+        display: none;
+    }
+
+    .social-icon-links {
+        margin-top: 5px;
+    }
+
+    .we-mechanic-banner .owl-one {
+        display: none;
+    }
+
+    .banner-form-wrapper .col-md-4 {
+        margin-bottom: 10px;
+    }
+
+    .banner-form-wrapper .col-md-6 {
+        margin-bottom: 10px !important;
+    }
+
+    .service-section .col-6.col-md-2 {
+        margin-bottom: 20px;
+    }
+
+    .service-box.blue-box {
+        margin-bottom: 30px;
+    }
+
+    .section-title h2 {
+        font-size: 25px;
+    }
+
+    .noida-drivers-trust-wrapper .row {
+        flex-direction: column-reverse;
+    }
+
+    .copywrite-text {
+        font-size: 14px;
+    }
+
+    .social-logo.border-0 {
+        border: 1px solid #DEDEDE !important;
+    }
+
+    .blue-footer ul li a {
+        font-size: 12px;
+    }
+
+    .blue-footer ul li {
+        margin: 0px 10px;
+    }
+
+    .footer-links-section h5 {
+        margin-bottom: 10px;
+    }
+
+    .banner-section-wrapper {
+        background-image: url("../images/Rectangle-1.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .form-control {
+        height: 40px;
+    }
+
+    .service-box-wrapper h3 {
+        font-size: 16px;
+    }
+
+    .service-box-wrapper .col-lg-3 {
+        margin-bottom: 30px;
+    }
+
+    .inner-page-banner h1 {
+        font-size: 40px;
+        margin-bottom: 20px;
+        line-height: 50px;
+    }
+
+    .service-box-wrapper.space-bottom-100 {
+        margin-top: -60px;
+    }
+
+    .inner-page-banner {
+        padding: 60px 0px 80px;
+    }
+
+    .footer-bottom-wrapper ul li a {
+        padding: 8px 3px;
+    }
+
+    .inner-page-banner.abt-page-banner h1 {
+        margin-bottom: 0px;
+        font-size: 30px;
+    }
+}
