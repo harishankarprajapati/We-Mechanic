@@ -1118,7 +1118,9 @@ header {
   margin: 0;
   color: #666;
 }
-
+a.navbar-brand {
+    width: 28%;
+}
 /* RIGHT ICON */
 .timeline-right img{
   width: 190px;
@@ -1409,7 +1411,7 @@ header {
     }
 
     .navbar-brand {
-        width: 200px;
+        width: 200px !important;
     }
 
     .banner-form-wrapper .bd-example {
